@@ -1,5 +1,5 @@
 {
-  "name": "react-reorderable-list",
+  "name": "react-reorderable-list-forked",
   "version": "1.0.3",
   "description": "A simple UI framework friendly reorderable list component for React.",
   "author": "samceracas",
@@ -65,7 +65,7 @@
     "prettier": "^2.0.4",
     "prop-types": "^15.7.2",
     "puppeteer": "^5.3.1",
-    "react": "^16.13.1",
+    "react": "17.0.2",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.1"
   },
